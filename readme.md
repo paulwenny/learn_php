@@ -6,3 +6,4 @@
 
 ## Playlist
     ✅ Belajar PHP untuk PEMULA | 1. Intro
+    ✅ Belajar PHP untuk PEMULA | 2. SEJARAH & KARAKTERISTIK PHP
