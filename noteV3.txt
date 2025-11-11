@@ -1,0 +1,14 @@
+## Belajar PHP untuk PEMULA | 3. PERSIAPAN LINGKUNGAN PENGEMBANGAN
+
+=> Client-side vs Server-side Scripting
+    - Client Side Scripting
+        > HTML, CSS, JS, Web Browser
+    - Server Side Scripting
+        > Web Browser (Web Server, PHP, Database)
+
+=> Persiapan Lingkungan Pengembangan
+    - Apache (Web Server)
+    - PHP (Bahasa Pemrograman)
+    - MySQL (Database)
+    - All in one Packages
+        > WAMP, MAMP, LAMP, XAMPP
