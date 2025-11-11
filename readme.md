@@ -1,5 +1,6 @@
-REPOSITORY lEARN PHP
+# REPOSITORY lEARN PHP
 
-Branch
-1. Main             <<Final Projeck>>
-2. php_basic(WPU)   <<Learn Basic PHP>>
+## Branch
+    - php_basic-wpu
+    - Playlish Belajar PHP untuk PEMULA
+        
