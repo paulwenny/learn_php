@@ -1,0 +1,39 @@
+## Belajar PHP untuk Pemula | 1.Intro
+
+=> Kenapa PHP?
+    1. relatif mudah untuk pemula
+    2. pre-requisite HTML + CSS
+    3. gratis & open source
+    4. dukungan komunitas
+    5. dokumentasi yang lengkap
+    6. PHP dibuat kehusus untuk website
+    7. kebanyakan website yang ada saat ini dibuat dengan PHP
+    8. banyak website besar dibuat dengan PHP
+    9. Content Management System yang menggunakan PHP
+    10. Framework PHP
+
+=> apa yang akan dipelajari?
+    - client-side vs server-side scripting
+    - static vs dynamic website
+    - persiapan lingkungan pengembangan
+    - sintaks PHP
+    - array
+    - request method
+    - studi kasus website sederhana
+    - database
+    - CRUD (Create, Read, Update, Delete)
+    - login dan registrasi
+    - sessio dan cookie
+    - ajax
+    - upload file
+    - reporting
+    - web hosting
+
+=> apa yang harus disiapkan?
+    - Code Editor
+    - web server
+    - web browser
+    - database server
+
+=> SUDAH SIAP?
+    SIAP PAK !!!
