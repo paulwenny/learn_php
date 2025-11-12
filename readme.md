@@ -10,3 +10,4 @@
     ✅ Belajar PHP untuk PEMULA | 1. Intro
     ✅ Belajar PHP untuk PEMULA | 2. SEJARAH & KARAKTERISTIK PHP
     ✅ Belajar PHP untuk PEMULA | 3. PERSIAPAN LINGKUNGAN PENGEMBANGAN
+    ✅ Belajar PHP untuk PEMULA | 4. SINTAKS PHP
