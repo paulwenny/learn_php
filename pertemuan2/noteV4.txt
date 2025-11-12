@@ -1,0 +1,52 @@
+## Belajar PHP untuk PEMULA | 4. SINTAKS PHP
+
+=> Tag PHP
+    <?php
+        Baris Coding
+    <?
+
+=> Comentar
+    // untuk 1 baris kode
+    /*
+        untuk banyak baris
+    */
+
+=> Standar Output
+    echo        << Menampilkan Sesuatu ke layar
+    print       << Menampilkan Sesuatu ke layar
+    print_r     << Menampilkan Sesuatu ke layar
+    var_dump    << Menampilkan Panjang data & data yang disimpan
+
+=> Penulisan Sintaks PHP
+    > PHP di dalam HTML     << 
+    > HTML di dalam PHP     << Tidak Disarankan
+
+=> Variabel dan Tipe data
+    > Variabel
+        - diawali dengan $
+        - variabel tidak boleh diawali dengan angka, tapi boleh mengandung angka
+    > Tipe data
+        - int
+        - string
+        - boolean
+
+=> Operator
+    - Aritmatika
+        +, -, *, /, %
+    
+    - Penggabung string / Concatenation
+        .
+
+    - Assignment
+        =, +=, -=, *=, /=, %=, .=
+
+    - Perbandingan
+        <, >, <=, >=, ==, !=
+        tidak mengecek tipe data hanya nilai
+
+    - Identitas
+        ===, !==
+        mengecek tipe datanya
+
+    - Logika
+        &&, ||, !
