@@ -1,0 +1,16 @@
+## Belajar PHP untuk PEMULA | 8. ASSOCIATIVE ARRAY
+
+=> Array ASSOCIATIVE
+    > Sama seperti array numerik, kecuali key/index a/ string yang kita buat sendiri
+    > cara menulis array ASSOCIATIVE
+        $nama_array = [
+            [
+                "string_key" => "nilai_key"
+            ],
+            [
+                "string_key" => "nilai_key"
+                "string_key" => [1,2,3]         << Array di dalam array
+            ],
+        ]
+    > cara memanggil array ASSOCIATIVE
+        echo $nama_array["index_terluar"]["nama_key"]
