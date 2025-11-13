@@ -12,3 +12,4 @@
     ✅ Belajar PHP untuk PEMULA | 3. PERSIAPAN LINGKUNGAN PENGEMBANGAN
     ✅ Belajar PHP untuk PEMULA | 4. SINTAKS PHP
     ✅ Belajar PHP untuk PEMULA | 5. STRUKTUR KENDALI
+    ✅ Belajar PHP untuk PEMULA | 6. FUNCTION
