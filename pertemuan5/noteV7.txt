@@ -1,0 +1,24 @@
+## Belajar PHP untuk PEMULA | 7. ARRAY
+
+=> Array
+    - variabel yang dapat memiliki banyak nilai
+    - $nama_array = ["isi", "Array"];
+    - elemen di dalam array boleh memiliki tipe data yang berbeda
+    - elemen pada array dimulai dari 0
+    - menambahkan nilai array yang baru
+        - $nama_array[] = "nilai_array_baru"
+
+=> Menampilkan isi array mengunkan looping foreach
+    foreach($nama_array as $variabel_yang_menampung_nilai_array){
+        echo $variabel_yang_menampung_nilai_array;
+    }
+
+=> Array Multi Dimensi
+    - Array di dalam Array
+    - $nama_array = [
+        ["data", "array", "pertama"],       >> Array data 1
+        ["data", "array", "pertamaN"]       >> Array data 2
+    ]
+
+=> Array Numerik
+    - Index nya adalah angka mulai dari 0
