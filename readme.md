@@ -13,3 +13,4 @@
     ✅ Belajar PHP untuk PEMULA | 4. SINTAKS PHP
     ✅ Belajar PHP untuk PEMULA | 5. STRUKTUR KENDALI
     ✅ Belajar PHP untuk PEMULA | 6. FUNCTION
+    ✅ Belajar PHP untuk PEMULA | 7. ARRAY
