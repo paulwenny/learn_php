@@ -1,0 +1,29 @@
+## Belajar PHP untuk PEMULA | 6. FUNCTION
+
+=> Built-in Function
+    - fungsi yang sudah didalam PHP
+    - Date/Time
+        > time()
+        > date()        << untuk menampilkan tanggal dengan format tertentu
+        > mktime()
+            mktime(0, 0, 0, 0, 0, 0, )
+            mktime(jam, menit, detik, bulan, tanggal, tahun)
+        > dtrtotime()
+
+    - String
+        > strlen()
+        > strcmp()
+        > explode()
+        > htmlspecialchars()
+
+    - Utility
+        > var_dump()
+        > isset()       << menghasilkan nilai boolean
+        > empty()
+        > die()         << memberhentikan program
+        > sleep()       << untuk memberhentikan sementara program
+
+=> User-Defined Function
+    - fungsi yang dibuat sendri oleh progreming
+    - fungsi harus didefenisikan dulu baru dipanggil
+    
