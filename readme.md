@@ -14,3 +14,4 @@
     ✅ Belajar PHP untuk PEMULA | 5. STRUKTUR KENDALI
     ✅ Belajar PHP untuk PEMULA | 6. FUNCTION
     ✅ Belajar PHP untuk PEMULA | 7. ARRAY
+    ✅ Belajar PHP untuk PEMULA | 8. ASSOCIATIVE ARRAY
