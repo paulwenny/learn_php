@@ -1,0 +1,13 @@
+## Belajar PHP untuk PEMULA | 5. STRUKTUR KENDALI
+
+=> Perulangan
+    - for
+    - while
+    - do.. while
+    - foreeach      << Khusus Array
+
+=> Pengkondisian
+    - if.. else
+    - if.. else if.. else
+    - ternary
+    - switch
