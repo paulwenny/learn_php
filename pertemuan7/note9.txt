@@ -1,0 +1,32 @@
+## Belajar PHP untuk PEMULA | 9. GET & POST
+
+=> Variabel Scope
+    > lingkup Variabel
+
+    > Variabel Lokal
+        - Di dalam fungsi
+
+    > Variabel Global
+        - di luar fungsi
+
+    > Variabel Superglobals
+        - Variabel yang dimiliki PHP
+        - Merupakan Array Assosiative
+        - dapat diakses dimanapun
+            > $_GET
+            > $_POST
+            > $_REQUEST
+            > $_SESSION
+            > $_COOKIE
+            > $_SERVER
+            > $_ENV
+
+=> $_GET
+    > Mengirim data lewat URL
+    > Mengisi Nilai ke $_GET
+        $_GET["key"] = "isi_key"
+    > Mengisi NIlai ke $_GET menggunakan URL
+        www.contoh.com?key=isi_key&keyn=isi_keyn
+
+=> $_POST
+    > Mengirim data menggunakan form
