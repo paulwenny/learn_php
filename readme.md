@@ -15,3 +15,4 @@
     ✅ Belajar PHP untuk PEMULA | 6. FUNCTION
     ✅ Belajar PHP untuk PEMULA | 7. ARRAY
     ✅ Belajar PHP untuk PEMULA | 8. ASSOCIATIVE ARRAY
+    ✅ Belajar PHP untuk PEMULA | 9. GET & POST
