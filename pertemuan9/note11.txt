@@ -1,0 +1,24 @@
+## Belajar PHP untuk PEMULA | 11. PHP & MySQL
+
+=> Untuk menghubungkan aplikasi php ke database MySql
+    > Ekstensi MySQL << Versi Lama
+    > Ekstensi MySQLi << i = imprufe disarankan untuk digunakan
+    > PDO (PHP Data Object)
+
+=> Untuk menghubungkan ke data base
+    > Koneksi ke data base
+        - $conn = mysqli_connect("localhost", "root", "", "nama_db");
+
+    > Mengambil data dari table database
+        - $result = mysqli_query ($conn, "SELECT * FROM nama_db");
+
+=> Ambil data (fetch) mahasiswa dari object result
+    > mysqli_fetch_row()
+        - Mengembalikan Array Numerik
+    > mysqli_fetch_assoc()
+        - Mengembalikan Array Assosiative
+    > mysqli_fetch_array()
+        - Mengembalikan Array Numerik dan Assosiative
+        - data yang di tampilkan doble sehingga membebani memori apabila data didatabase banyak
+    > mysqli_fetch_object()
+        - Mengembalikan Object
