@@ -1,0 +1,18 @@
+## Belajar PHP untuk PEMULA | 10. DATABASE & MySQL
+
+=> Data
+    - a/ Representasi Fakta didunia nyata
+    - contoh : nama, no_ktp, foto dll
+
+=> Menyimpan dan mengelola data
+    > di simpan di notepat
+        - masalah << kapasitas, kecepatan, keamanan, duplikasi dll
+        - solusi << skalabilitas, tersedia, aman, permanen dll
+
+=> Database
+    > Data didalam DBMS (database managemnet sistem)
+    > Jenis DBMS
+        - Relational DBMS
+        - Hierarchical DBMS
+        - Network DBMS
+        - NoSQL DBMS
