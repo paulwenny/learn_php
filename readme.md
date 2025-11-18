@@ -22,3 +22,4 @@
     ✅ Belajar PHP untuk PEMULA | 13. UPDATE
     ✅ Belajar PHP untuk PEMULA | 14. SEARCHING
     ✅ Belajar PHP untuk PEMULA | 15. UPLOAD
+    ✅ Belajar PHP untuk PEMULA | 16. REGISTRASI
