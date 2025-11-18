@@ -1,0 +1,12 @@
+## Belajar PHP untuk PEMULA | 15. UPLOAD
+
+=> File Handling
+    > <input type='file'>
+
+    > enctype
+
+    > $_FILES
+
+    > move_uploaded_file
+
+=> 
