@@ -1,0 +1,29 @@
+## Belajar PHP untuk PEMULA | 19. COOKIE
+
+=> Login System
+    > Registrasi
+        - tabel 'user'
+        - Enkripsi Password
+    > Login
+    > Session
+        - Mekanisme penyimpanan informasi ke dalam variabel agar bisa digunakan di lebih dari satu halaman
+        - informasi disimpan diserver
+        - session_start()
+        - $_SESSION
+        - session_destry()
+    > Cookie
+        - sama seperti Session
+        - informasi disimpan dibrowser/client
+        - Penggunaan Cookie
+            > mengenali user
+            > shopping cart
+            > personalisasi
+            > dll...
+        - setcookie()
+        - $_COOKIE
+        - cara membuat Cookie
+            > setcookie('nama_cookie', 'isi_cookie', 'waktu_cookie_hilang');
+            > setcookie('nama', 'paul_wenny', time()+60);
+
+
+=> 
