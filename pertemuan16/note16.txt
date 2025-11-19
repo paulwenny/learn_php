@@ -1,0 +1,16 @@
+## Belajar PHP untuk PEMULA | 18.SESSION
+
+=> Login System
+    > Registrasi
+        - tabel 'user'
+        - Enkripsi Password
+    > Login
+    > Session
+        - Mekanisme penyimpanan informasi ke dalam variabel agar bisa digunakan di lebih dari satu halaman
+        - informasi disimpan diserver
+        - session_start()
+        - $_SESSION
+        - session_destry()
+    > Cookie
+
+=> 
