@@ -24,4 +24,5 @@
     ✅ Belajar PHP untuk PEMULA | 15. UPLOAD
     ✅ Belajar PHP untuk PEMULA | 16. REGISTRASI
     ✅ Belajar PHP untuk PEMULA | 17. LOGIN
-    ✅ Belajar PHP untuk PEMULA | 18.SESSION
+    ✅ Belajar PHP untuk PEMULA | 18. SESSION
+    ✅ Belajar PHP untuk PEMULA | 19. COOKIE
