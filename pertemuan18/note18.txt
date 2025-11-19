@@ -1,0 +1,5 @@
+## Belajar PHP untuk PEMULA | 20. PAGINATION
+
+=> Pagination
+    > a/ teknik untuk membatasi data yang tampil dihalaman web menjadi beberapa halaman
+    > 
