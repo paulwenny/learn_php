@@ -1,0 +1,50 @@
+## OOP DASAR pada PHP #1 - Pendahuluan
+
+=> Procedural Programming ?
+    > Intruksi dilakukan langkah demi langkah
+    > memecah program menjadi bagian-bagian kecil
+    > disebut orisedur, subroutine atau function
+    > Linear/Top-to-Bottom
+    > Fortran, ALGOL, COBOL, Pascal, C, PHP, Javascript
+
+=> Kelebihan Procedural Programming
+    > To-the-Point
+    > Simplicity & kemudahan implementasi (untuk compiler & interpreter)
+    > Mudah ditelusuri
+    > Membutuhkan lebih sedikit memori (dibandingkan dengan OOP)
+
+=> Object Oriented Programming ?
+    > menyusun semua kode program dan struktur data sebagai objek
+    > onjek adalah unit dasar dari program
+    > objek menyimpan data dan perilaku
+    > objek bisa saling berinteraksi
+    > Java. Ruby, Python, C++, Javascript, PHP5
+
+> Kelebihan Oriented Programming
+    > Representasi dunia nyata
+    > Enkapsulasi dan Abstraksi data
+    > Reusability
+    > Skalabilitas & Ekstensibilitas
+    > Kemudahan pengelolaan
+    > Kolaborasi
+    > Digunakan oelh framework
+
+> Procedural VS OOP ?
+
+> Konsep OOP pada PHP
+    > Basic
+        - Class dan Object
+        - Property dan Method
+        - Constructor
+        - Object Type
+        - Inheritance
+        - Visibility / Access Modifier
+        - Setter dan Getter
+        - Static Method
+
+    > Advance
+        - Abstract dan Interface
+        - Interceptor
+        - Object Cloning
+        - Callbacks dan Closures
+        - Namespaces dan Autoloading
