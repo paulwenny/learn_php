@@ -29,3 +29,4 @@
     ✅ Belajar PHP untuk PEMULA | 20. PAGINATION
     ✅ Belajar PHP untuk PEMULA | 21. LIVE SEARCH (menggunakan AJAX)
     ✅ Belajar PHP untuk PEMULA | 22. LIVE SEARCH (menggunakan JQUERY)
+    ✅ Belajar PHP untuk PEMULA | 23. PDF REPORTING
