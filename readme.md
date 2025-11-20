@@ -28,3 +28,4 @@
     ✅ Belajar PHP untuk PEMULA | 19. COOKIE
     ✅ Belajar PHP untuk PEMULA | 20. PAGINATION
     ✅ Belajar PHP untuk PEMULA | 21. LIVE SEARCH (menggunakan AJAX)
+    ✅ Belajar PHP untuk PEMULA | 22. LIVE SEARCH (menggunakan JQUERY)
