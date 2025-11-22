@@ -10,7 +10,7 @@
 ## Playlist
 
 ✅ OOP DASAR pada PHP #1 - Pendahuluan
-- OOP DASAR pada PHP #2 - Class dan Object
+✅ OOP DASAR pada PHP #2 - Class dan Object
 - OOP DASAR pada PHP #3 - Property dan Method
 - OOP DASAR pada PHP #4 - Constructor
 - OOP DASAR pada PHP #5 - Object Type

@@ -1,0 +1,24 @@
+## OOP DASAR pada PHP #2 - Class dan Object
+
+=> Class
+    > Blueprint / Template untuk membuat instance dari object
+    > Class mendefenisikan object
+    > menyimpan data dab perilaku yang disebut dengan property dan method
+    > Membuat Class
+        - deiawali dengan menulis keyword class, diikuti nama dan dibatasi dengan {} untuk menyimpan property dan method
+        - aturan penamaan class sama seperti variabnel
+        - class namaClass{
+
+        }
+
+=> Object
+    > instance yang didefinisikan oleh class
+    > banyak object dapat dibuat menggunakan satu class
+    > object dibuat dengan menggunakan key new
+    > Membuat object
+
+    class namaClass{
+
+    }
+    $a = new namaClass();
+    $b = new namaClass();
