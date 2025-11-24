@@ -1,0 +1,11 @@
+### OOP DASAR pada PHP #3 - Property dan Method
+
+=> Property
+    > Merepresentasikan data/keadaan dari sebuah object
+    > variabel yang ada didalam object (member variable)
+    > sama seperti variabel didalam php, ditambah dengan visibility didepannya
+
+=> Method
+    > Merepresentasikan perilaku dari sebuah object
+    > Function yang ada didalam object
+    > sama seperti Function didalam php, ditambah dengan visibility didepannya
